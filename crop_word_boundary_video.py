@@ -16,3 +16,6 @@ def load_features(arr, filename, use_boundary=False, augment=True):
     else:
         st, ed = 0, 29
     return arr[st: ed]
+
+
+链接：https://pan.baidu.com/s/111kBHBo7Oyb0dwjkzdVTOQ 密码：es9e
